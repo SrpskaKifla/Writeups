@@ -65,5 +65,5 @@ It looks like it's base64 encoded now.
 
 ![image](https://user-images.githubusercontent.com/93349641/176464636-0bf40e6c-3de0-48f3-bbb7-fab947818da8.png)
 <hr>
-And there is the flag!!!
-It was a pretty easy box, hope you enjoyed it!
+<br>
+And there is the flag!!! It was a pretty easy box, hope you enjoyed it!
