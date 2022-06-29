@@ -48,3 +48,22 @@ Let's use <b>Stegseek</b> tool for this! <br>
 ![image](https://user-images.githubusercontent.com/93349641/176460014-2defe94d-e4a6-4ed1-aadf-85b3e2be61ee.png)
 
 <hr>
+Now that we have a password let's use <b>Steghide</b> again to extract files! <br>
+We got a "medicine.txt"! Let's see what's in there.
+<hr>
+
+![image](https://user-images.githubusercontent.com/93349641/176462698-a94782d4-042c-4eb8-995c-6a298543d2bc.png)
+
+<hr>
+It looks like it's base32 encoded.
+<hr>
+
+![image](https://user-images.githubusercontent.com/93349641/176463898-b23e26d5-f2eb-4797-a201-bfc2cc4032a6.png)
+<hr>
+It looks like it's base64 encoded now.
+<hr>
+
+![image](https://user-images.githubusercontent.com/93349641/176464636-0bf40e6c-3de0-48f3-bbb7-fab947818da8.png)
+<hr>
+And there is the flag!!!
+It was a pretty easy box, hope you enjoyed it!
