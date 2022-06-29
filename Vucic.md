@@ -40,7 +40,7 @@ Next, let's see if we can find something using <b>Exiftool</b>
 ![image](https://user-images.githubusercontent.com/93349641/176454159-2ebeffab-4716-4b4b-bca3-328090b67844.png)
 
 <hr>
-Looks like we need to bruteforce it! <br>
+It's hinting for bruteforce! <br>
 Let's use <b>Stegseek</b> tool for this! <br>
 <i>Note: </i> You can use <b>Stegcracker</b> too, but it's much slower than stegseek
 <hr>
